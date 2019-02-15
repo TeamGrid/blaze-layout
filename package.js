@@ -1,8 +1,8 @@
 Package.describe({
-  summary: 'Layout Manager for Blaze (works well with FlowRouter)',
+  summary: 'fork of kadira:blaze-layout that works with template objects',
   version: '2.3.0',
   git: 'https://github.com/kadirahq/blaze-layout',
-  name: "kadira:blaze-layout"
+  name: "teamgrid:blaze-layout"
 });
 
 Package.onUse(function (api) {
